@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning more about machine learning under an optimization lens
 
-- 🔭 For my research I'm interested in a wide range of ML topics, including NLP, ML on graphs & Data Privacy 
+- 🔭 For my research I'm interested in a wide range of ML topics, including NLP, Graph Neural Networks, Mixture of Experts & Data Privacy 
 
 
 💬 **Contact**
