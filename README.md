@@ -22,6 +22,8 @@ You can find below a list of some of my relevant repositories.
 
 |Topic|Paper|Comment|Repo|
 |---|:---:|:---:|:---:|
+Computer vision, Multi-Head Attention|[Project Report](https://github.com/paultheron-X/6.8300-Computer-Vision/blob/main/report.pdf)|Attention-based Fusion for Video Super-Resolution|[6.8300-Computer-Vision](https://github.com/paultheron-X/6.8300-Computer-Vision)
+Reinforcement Learning, Robustness, Ensemble learning|[Project Report](https://github.com/paultheron-X/6.8200-Unit-Commitment/blob/main/report.pdf)|Robust Guided Forest Search for Unit Commitment|[6.8200-Unit-Commitment](https://github.com/paultheron-X/6.8200-Unit-Commitment)
 NLP, Mixture of Experts, transformers|*No paper associated*|Research assistantship work: Benchmarking Mixture of Experts with soft-tree routing on BERT models, achieving state-of-the-art results on 5 GLUE tasks|[MoEBERT-fork](https://github.com/paultheron-X/MoEBERT-fork)
 NLP, Text classification|[INF582 NLP Challenge: Summary Source Prediction](http://dx.doi.org/10.13140/RG.2.2.20076.85125)|Detecting computer-generated summaries|[INF582-NLP-Challenge-Summary-Source-Prediction](https://github.com/paultheron-X/INF582-NLP_challenge)
 Non linear Optimization, Julia|[Project Report](https://github.com/paultheron-X/15.093-OptimizationAMMs/blob/main/project_final_report.pdf), [Poster](https://github.com/paultheron-X/15.093-OptimizationAMMs/blob/main/project_final_poster.pdf)|Optimal trade execution in automated market makers (cryptocurrency data)|[15.093-OptimizationAMMs](https://github.com/paultheron-X/15.093-OptimizationAMMs)
